@@ -7,4 +7,4 @@ I agree that as of now it is more of a tool than a replacement, which is rather
 cool since you can use it to complete tasks that you do not necessarily know how
 to do, like editing a video, or creating an itinerary. With advancements made so
 far, i am really looking forward to what AI would be capable of in the next 10
-years.
+years. 
